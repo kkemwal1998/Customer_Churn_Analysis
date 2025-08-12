@@ -69,5 +69,5 @@ C) Churn Analysis: Analyse the data and bring out few insights on the customer C
   o Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
 
 
-
+D) Tools:- Power BI
 
